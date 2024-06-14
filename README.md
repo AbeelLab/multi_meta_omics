@@ -14,6 +14,8 @@ The datasets used for the "reproducibility" experiments were downloaded from two
 
 ### References
 [1] Franzosa, Eric A., et al. "Gut microbiome structure and metabolic activity in inflammatory bowel disease." Nature microbiology 4.2 (2019): 293-305.
+
 [2] Wang, Xifan, et al. "Aberrant gut microbiota alters host metabolome and impacts renal failure in humans and rodents." Gut 69.12 (2020): 2131-2142.
+
 [3] Yachida, Shinichi, et al. "Metagenomic and metabolomic analyses reveal distinct stage-specific phenotypes of the gut microbiota in colorectal cancer." Nature medicine 25.6 (2019): 968-976.
   
