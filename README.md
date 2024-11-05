@@ -1,7 +1,4 @@
-## The artificially generated microbiome: reproducibility scripts
-
-This is a collection of scripts used for model design, benchmarking and plotting, supporting my MSc thesis: _The artificially generated microbiome: a study on the generation and potential use cases of predicted meta-omics data_. 
-The manuscript is available on the [TU Delft education repository](https://repository.tudelft.nl/islandora/search/?collection=education).
+These are supporting scripts for our manuscript titled: _Predicted meta-omics: a potential solution to multi-omics data scarcity in microbiome studies_.
 
 ### Data availability
 The data used for the main experiments was downloaded from the Inflammatory Bowel Disease Multi'omics Database:
